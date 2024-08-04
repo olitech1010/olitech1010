@@ -1,4 +1,4 @@
 ### Ultimate focus
-- 📫 How to reach me WhatsApp +233553306360
+Reach me on WhatsApp +233553306360
 
 
