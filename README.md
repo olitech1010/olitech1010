@@ -1,29 +1,18 @@
-<div align="center">
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/9ba1413c-4ed6-4e9f-bb99-111473431bc1" />
 
-# Hi, I'm C L E M E N T
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Founder+%7C+Software+Engineer+%7C+Builder;Building+Digital+Infrastructure+for+Africa;AI+Systems+%7C+SaaS+Platforms+%7C+Enterprise+Software;Turning+Ideas+Into+Scalable+Products;Always+Shipping..." />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=olitech1010\&style=for-the-badge)
-
-</div>
-
----
 
 ## SYSTEM STATUS
 
 ```bash
 $ whoami
 
-Name      : Clement
+Name      : Clement Olives
 Location  : Accra, Ghana
 Role      : Founder & Software Engineer
 
 Companies :
 ├── CLISPA
-└── Olives Technologies
+└── Techgigs Ltd
 
 Focus :
 ├── Artificial Intelligence
@@ -41,10 +30,6 @@ organizations operate better.
 
 ## CURRENT BUILD QUEUE
 
-<table>
-<tr>
-<td width="50%">
-
 ### ACTIVE PRODUCTS
 
 * Verity
@@ -54,10 +39,6 @@ organizations operate better.
 * BeachOps
 * ChurchOps
 
-</td>
-
-<td width="50%">
-
 ### CURRENT INTERESTS
 
 * AI Agents
@@ -66,10 +47,6 @@ organizations operate better.
 * Enterprise Systems
 * Process Automation
 * Digital Transformation
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -129,27 +106,11 @@ Status: ACTIVE DEVELOPMENT
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
-
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
 ### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
-</p>
 
 ---
 
@@ -179,34 +140,17 @@ SHIP > PERFECT
 
 ## GITHUB ANALYTICS
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=olitech1010&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olitech1010&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## CONTRIBUTION STREAK
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=olitech1010&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## CONTRIBUTION GRAPH
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=olitech1010&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## TROPHY CABINET
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=olitech1010&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
@@ -238,16 +182,15 @@ I enjoy building products that eliminate repetitive work, automate operations, a
 
 ## CONNECT
 
-<p align="center">
-
-<a href="https://github.com/olitech1010">GitHub</a>
-
-</p>
+GitHub •
+Facebook •
+Instagram •
+X •
+TikTok •
+Pinterest •
+Email •
+WhatsApp
 
 ---
 
-<div align="center">
-
 ### BUILDING DIGITAL INFRASTRUCTURE FOR AFRICA
-
-</div>
