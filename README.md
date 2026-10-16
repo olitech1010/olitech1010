@@ -38,8 +38,9 @@ Name      : Clement Olives
 Location  : Accra, Ghana 🇬🇭
 Role      : Founder & Software Engineer
 Companies :
-├── CLISPA
-└── Techgigs Ltd
+├── RAMSYS
+└── OLIVES TECHNOLOGIES
+└── GHANA FREE ZONES AUTHORITY
 Focus :
 ├── Artificial Intelligence
 ├── SaaS Platforms
@@ -53,22 +54,7 @@ Mission :
 
 ---
 
-## 🌿 Active Build Queue
 
-<div align="center">
-
-| Product | Description | Status |
-|---------|-------------|--------|
-| 🔍 **Verity** | AI-powered verification & trust infrastructure | ![Active](https://img.shields.io/badge/ACTIVE%20DEV-22C55E?style=flat-square&logoColor=white) |
-| 📁 **ERMS+** | Enterprise Records & Document Management System | ![Production](https://img.shields.io/badge/PRODUCTION-16A34A?style=flat-square&logoColor=white) |
-| 🛒 **NextPoint POS** | Retail, inventory & restaurant operations platform | ![Production](https://img.shields.io/badge/PRODUCTION-16A34A?style=flat-square&logoColor=white) |
-| 🏫 **iSchool** | School management platform | ![Production](https://img.shields.io/badge/PRODUCTION-16A34A?style=flat-square&logoColor=white) |
-| 🏖️ **BeachOps** | Beach resort & hospitality operations platform | ![Active](https://img.shields.io/badge/ACTIVE%20DEV-22C55E?style=flat-square&logoColor=white) |
-| ⛪ **ChurchOps** | Church administration & operations platform | ![Active](https://img.shields.io/badge/ACTIVE%20DEV-22C55E?style=flat-square&logoColor=white) |
-
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
